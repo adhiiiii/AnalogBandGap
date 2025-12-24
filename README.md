@@ -6,7 +6,7 @@
 ### Band Gap Reference Classifications
 #### Architecture Based
 * Self Biased
-* Operationsl Amplifier
+* Operational Amplifier
 
 #### Application wise
 * Low Volatage
