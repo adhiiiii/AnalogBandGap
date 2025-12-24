@@ -14,9 +14,11 @@
 * HIgh PSRR & Low noise
 * Curvature Compensated
 
-## 2. Requirements
+## 2. Working Principle
 
-## 3. Setup
+## 3. Requirements
+
+## 4. Sky130 Lab Setup
 
 ## 4. Simulation
 
