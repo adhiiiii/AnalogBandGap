@@ -3,7 +3,16 @@
 
 ## 1. Introduction
 
+### Band Gap Reference Classifications
+#### Architecture Based
+* Self Biased
+* Operationsl Amplifier
 
+#### Application wise
+* Low Volatage
+* Low Power
+* HIgh PSRR & Low noise
+* Curvature Compensated
 
 ## 2. Requirements
 
