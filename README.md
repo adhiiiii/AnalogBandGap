@@ -40,7 +40,7 @@ Base-emitter voltage as a funcion of collector current and temperature
 
 Simplified Circuit of a Bandgap Voltage Reference
 
-<img width="779" height="230" alt="Image" src="https://github.com/user-attachments/assets/ab036c81-30e2-4c2c-aa5c-502cd0c8362d" />
+<img width="766" height="220" alt="Image" src="https://github.com/user-attachments/assets/aec87451-742e-430f-b229-989509c986b5" />
 
 Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coefficient of the Vbe
 
