@@ -70,53 +70,53 @@ The Self-biased current mirror based constitute of the following components.
 
 3. Choosing Number of BJT in parallel in Branch2
 
-    Less number of BJT: require less resistance value but matching hampers
+    * Less number of BJT: require less resistance value but matching hampers
    
-    More number of BJT: requires higher resistance value but gives good matching
+    * More number of BJT: requires higher resistance value but gives good matching
    
-    So a moderate number have chosen (8 BJT) for better layout matching and moderate resistance value.
+    * So a moderate number have chosen (8 BJT) for better layout matching and moderate resistance value.
 
 5. Calculation of R1
 
-    R1= Vt* ln (8)/I =26 mv *ln(8)/10.7uA=5 KOhm
+    * R1= Vt* ln (8)/I =26 mv *ln(8)/10.7uA=5 KOhm
    
-    R1 size: W=1.41um, L=7.8um, Unit res value: 2k Ohm
+    * R1 size: W=1.41um, L=7.8um, Unit res value: 2k Ohm
    
-    Number of resistance needed: 2 in series and 2 in parallel (2+2+(2||2))
+    * Number of resistance needed: 2 in series and 2 in parallel (2+2+(2||2))
 
 7. Calculation of R2
 
-    Current through ref branch:I3=I2=Vt*ln(8)/R1
+    * Current through ref branch:I3=I2=Vt*ln(8)/R1
    
-    Voltage across R2: R2I3=R2/R1(Vtln(8))
+    * Voltage across R2: R2I3=R2/R1(Vtln(8))
    
-    Slope of VR2= R2/R1 (ln(8)*115uv)/Deg Cent.
+    * Slope of VR2= R2/R1 (ln(8)*115uv)/Deg Cent.
    
-    Slope of VQ3=-1.6mV/Deg cent
+    * Slope of VQ3=-1.6mV/Deg cent
    
-    Adding both and equating to zero, R2 will be around 33k Ohm
+    * Adding both and equating to zero, R2 will be around 33k Ohm
    
-    Number of resistance needed: 16 in series and 2 in parallel (2+2...+2+ (2||2))
+    * Number of resistance needed: 16 in series and 2 in parallel (2+2...+2+ (2||2))
 
 9. SBCM Design (Self-biased Current Mirror)
 
    A. PMOS Design in SBCM
   
-      Make both the MP1 and MP2 well in Saturation
+      * Make both the MP1 and MP2 well in Saturation
   
-     To reduce channel length modulation used L=2um
+      * To reduce channel length modulation used L=2um
   
-     Finally the size is L=2u, W=5u and M=4
+      * Finally the size is L=2u, W=5u and M=4
 
    B. NMOS Design in SBCM
 
-     Make both the MN1 and MN2 either in Saturation or in deep sub-threshold
+     * Make both the MN1 and MN2 either in Saturation or in deep sub-threshold
  
-     We have made it in deep sub-threshold
+     * We have made it in deep sub-threshold
  
-     To reduce channel length modulation used L=1um
+     * To reduce channel length modulation used L=1um
  
-     Finally the size is L=1u, W=5u and M=8
+     * Finally the size is L=1u, W=5u and M=8
 
 
 Final Circuit
