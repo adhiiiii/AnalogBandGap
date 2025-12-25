@@ -18,7 +18,7 @@ Bandgap Reference(Voltage ref) is one of important building block of any analog 
 * HIgh PSRR & Low noise
 * Curvature Compensated
 
-Typical Integrated Circuit / System on Chip (SoC) - "Vref" point of view :
+### Typical Integrated Circuit / System on Chip (SoC) - "Vref" point of view :
 
 The below diagram shows how "Vef" is connected/distributed to various blocks (ADC,DAC, Digital System..etc) 
 
