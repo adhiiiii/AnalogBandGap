@@ -62,8 +62,16 @@ Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coeff
 
 ⦁	Tempco. Of Vref < 50 ppm
 
+MOSFET
+
 <img width="457" height="112" alt="Image" src="https://github.com/user-attachments/assets/68b80c81-1a9b-4eb0-b9fc-b2e912be6cea" />
+
+BJT
+
 <img width="355" height="125" alt="Image" src="https://github.com/user-attachments/assets/5118c5b5-33e7-47ba-b8b1-af64382c8f84" />
+
+RESISTOR
+
 <img width="374" height="106" alt="Image" src="https://github.com/user-attachments/assets/f788264a-d568-4348-b294-f374eda8f28a" />
 
 ### 3.2 The Self-biased current mirror based constitute of the following components.
