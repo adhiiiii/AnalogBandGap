@@ -56,6 +56,7 @@ The Self-biased current mirror based constitute of the following components.
 4.	Reference branch circuit
 5.	Start-up circuit
 
+<img width="694" height="468" alt="Image" src="https://github.com/user-attachments/assets/08bb369e-deee-4e9b-a44c-01c53fec9408" />
 
 ## 4. Sky130 Lab Setup
 
