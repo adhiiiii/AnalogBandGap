@@ -36,7 +36,7 @@ from a PTAT (proportional-to-absolute-temperature) circuit.
 CTAT-PTAT is most popular for both bipolar and CMOS technologies,
 
 Bandgap voltage reference is based on subtracting the voltage of a forward-biased diode (or
-base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). As we shall see, this PTAT voltage is realized by amplifying the voltage difference of two forward-biased
+base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). This PTAT voltage is realized by amplifying the voltage difference of two forward-biased
 base-emitter (or diode) junctions. A bandgap voltage reference system is shown below
 
 Simplified Circuit of a Bandgap Voltage Reference
