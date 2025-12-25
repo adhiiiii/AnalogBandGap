@@ -48,6 +48,15 @@ Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coeff
 
 ## 3. Requirements
 
+The Self-biased current mirror based constitute of the following components.
+
+1.	CTAT voltage generation circuit
+2.	PTAT voltage generation circuit
+3.	Self-biased current mirror circuit
+4.	Reference branch circuit
+5.	Start-up circuit
+
+
 ## 4. Sky130 Lab Setup
 
 ## 4. Simulation
