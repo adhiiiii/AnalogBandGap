@@ -46,7 +46,7 @@ Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coeff
 
 <img width="391" height="62" alt="Image" src="https://github.com/user-attachments/assets/4563a39e-3fb8-48e7-a60c-87ef47efdf2a" />
 
-## 3. Requirements
+## 3. Requirements and Design
 
 The Self-biased current mirror based constitute of the following components.
 
