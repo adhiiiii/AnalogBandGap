@@ -30,11 +30,9 @@ Below are ways we can realize voltage references in integrated circuits.
 
 1. Making use of a zener diode that breaks down at a known voltage when reverse biased.
 2. Making use of the difference in the threshold voltage between an enhancement transistor and a depletion transistor.
-3. Cancelling the negative temperature dependence of a pn junction with a positive temperature dependence
-from a PTAT (proportional-to-absolute-temperature) circuit.
+3. Cancelling the negative temperature dependence of a pn junction with a positive temperature dependence from a PTAT (proportional-to-absolute-temperature) circuit.
 
-CTAT-PTAT is most popular for both bipolar and CMOS technologies,Bandgap voltage reference is based on subtracting the voltage of a forward-biased diode (or base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). This PTAT voltage is realized by amplifying the voltage difference of two forward-biased
-base-emitter (or diode) junctions. A bandgap voltage reference system is shown below
+CTAT-PTAT is most popular for both bipolar and CMOS technologies,Bandgap voltage reference is based on subtracting the voltage of a forward-biased diode (or base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). This PTAT voltage is realized by amplifying the voltage difference of two forward-biased base-emitter (or diode) junctions. A bandgap voltage reference system is shown below
 
 Base-emitter voltage as a funcion of collector current and temperature
 
