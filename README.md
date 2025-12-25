@@ -3,22 +3,23 @@
 
 ## 1. Introduction
 
-Bandgap Reference(Voltage ref) is one of important building block of any analog IC which provides constant ref volatage, independent of supply voltage and temperature changes, which is expected to change in real world   
+Bandgap Reference(Voltage ref) is one of important building block of any analog IC which provides constant ref voltage, independent of supply voltage and temperature changes, which is expected to change in real world   
 
 
 
 ### Band Gap Reference Classifications
-#### Architecture Based
+#### Architecture Based :
 * Self Biased
 * Operational Amplifier
 
-#### Application wise
-* Low Volatage
-* Low Power
-* HIgh PSRR & Low noise
-* Curvature Compensated
+#### Applications :
+1.	Data Converters - ADCs,DACs
+2.	Power Management - Voltage Regulators(LDOs-Low Drop), Power Supply Monitoring
+3.	Integrated Systems and Sensors - On-Chip Temperature Sensors, Oscillators and PLLs
+4.	Digital and Mixed-Signal ICs - Biasing for High-Speed Logic , Memory Circuits
+5.	Application-Specific Fields - RF and Mixed-Signal Systems, Portable IoT Devices
 
-### Typical Integrated Circuit / System on Chip (SoC) - "Vref" point of view :
+### Typical Integrated Circuit / System on Chip (SoC) - "Vref" Point Of View :
 
 The below diagram shows how "Vef" is connected/distributed to various blocks (ADC,DAC, Digital System..etc) 
 
