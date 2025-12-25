@@ -58,6 +58,8 @@ The Self-biased current mirror based constitute of the following components.
 
 <img width="694" height="468" alt="Image" src="https://github.com/user-attachments/assets/08bb369e-deee-4e9b-a44c-01c53fec9408" />
 
+### Design
+
 1. Current Calculation
 
    * Max. power Consumption < 60uW
@@ -119,7 +121,7 @@ The Self-biased current mirror based constitute of the following components.
      * Finally the size is L=1u, W=5u and M=8
 
 
-Final Circuit
+### Final Circuit
 
 <img width="779" height="458" alt="Image" src="https://github.com/user-attachments/assets/b2b36fd2-6414-4543-acd5-e766c520f23d" />
 
