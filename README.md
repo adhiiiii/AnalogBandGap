@@ -65,5 +65,5 @@ The Self-biased current mirror based constitute of the following components.
 ##...
 
 Ref:
-1. https://www.seas.ucla.edu/brweb/papers/Journals/BR_SSCM_3_2021.pdf
+1. 
 2. 
