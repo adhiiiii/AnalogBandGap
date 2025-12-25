@@ -48,7 +48,22 @@ Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coeff
 
 ## 3. Requirements and Design
 
-The Self-biased current mirror based constitute of the following components.
+### 3.1 Design Requirements
+
+⦁	Supply voltage = 1.8V
+
+⦁	Temperature: -40 to 125 Deg Cent.
+
+⦁	Power Consumption < 60uW
+
+⦁	Off current < 2uA
+
+⦁	Start-up time < 2us
+
+⦁	Tempco. Of Vref < 50 ppm
+
+
+### 3.2 The Self-biased current mirror based constitute of the following components.
 
 1.	CTAT voltage generation circuit
 2.	PTAT voltage generation circuit
@@ -58,7 +73,7 @@ The Self-biased current mirror based constitute of the following components.
 
 <img width="694" height="468" alt="Image" src="https://github.com/user-attachments/assets/08bb369e-deee-4e9b-a44c-01c53fec9408" />
 
-### Design
+### 3.3 Design
 
 1. Current Calculation
 
