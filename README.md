@@ -3,6 +3,8 @@
 
 ## 1. Introduction
 
+Bandgap Reference(Voltage ref) is one of important building block of any analog IC which provides constant ref volatage, independent of supply voltage and temperature changes, which is expected to change in real world   
+
 ### Band Gap Reference Classifications
 #### Architecture Based
 * Self Biased
