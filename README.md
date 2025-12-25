@@ -41,7 +41,7 @@ base-emitter (or diode) junctions. A bandgap voltage reference system is shown b
 
 Simplified Circuit of a Bandgap Voltage Reference
 
-<img width="381" height="184" alt="Image" src="https://github.com/user-attachments/assets/3fa24a97-17db-4994-b59a-29996ef69bf8" />
+<img width="779" height="230" alt="Image" src="https://github.com/user-attachments/assets/ab036c81-30e2-4c2c-aa5c-502cd0c8362d" />
 
 ## 3. Requirements
 
