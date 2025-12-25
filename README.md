@@ -39,7 +39,9 @@ Bandgap voltage reference is based on subtracting the voltage of a forward-biase
 base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). As we shall see, this PTAT voltage is realized by amplifying the voltage difference of two forward-biased
 base-emitter (or diode) junctions. A bandgap voltage reference system is shown below
 
+Simplified Circuit of a Bandgap Voltage Reference
 
+<img width="381" height="184" alt="Image" src="https://github.com/user-attachments/assets/3fa24a97-17db-4994-b59a-29996ef69bf8" />
 
 ## 3. Requirements
 
