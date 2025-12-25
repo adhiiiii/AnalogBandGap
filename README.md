@@ -26,6 +26,20 @@ The below diagram shows how "Vef" is connected/distributed to various blocks (AD
 <img width="718" height="423" alt="Image" src="https://github.com/user-attachments/assets/63bff87e-962a-45d8-ad65-7fe8f81d8fe8" />
 
 ## 2. Working Principle
+Below are ways we can realize voltage references in integrated circuits. 
+
+1. Making use of a zener diode that breaks down at a known voltage when reverse biased.
+2. Making use of the difference in the threshold voltage between an enhancement transistor and a depletion transistor.
+3. Cancelling the negative temperature dependence of a pn junction with a positive temperature dependence
+from a PTAT (proportional-to-absolute-temperature) circuit.
+
+CTAT-PTAT is most popular for both bipolar and CMOS technologies,
+
+Bandgap voltage reference is based on subtracting the voltage of a forward-biased diode (or
+base-emitter junction) having a negative temperature coefficient from a voltage proportional to absolute temperature (PTAT). As we shall see, this PTAT voltage is realized by amplifying the voltage difference of two forward-biased
+base-emitter (or diode) junctions. A bandgap voltage reference system is shown below
+
+
 
 ## 3. Requirements
 
