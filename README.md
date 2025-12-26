@@ -162,6 +162,6 @@ RESISTOR
 
 ##...
 
-Ref:
-1. 
-2. 
+### _Acknowledgement_
+
+_* Prof. Santunu Sarangi * Kunal Ghosh, Founder VSD Corportation_ 
