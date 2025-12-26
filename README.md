@@ -151,9 +151,9 @@ RESISTOR
 
 <img width="779" height="458" alt="Image" src="https://github.com/user-attachments/assets/b2b36fd2-6414-4543-acd5-e766c520f23d" />
 
-## 4. Sky130 Lab Setup
+## 4. Lab Setup - Analog Design Flow - Sky130
 
-## 4. Simulation
+## 5. Simulation
 
 ##...
 
