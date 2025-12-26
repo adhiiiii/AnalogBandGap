@@ -162,6 +162,10 @@ RESISTOR
 
 ##...
 
+### _References_
+```
+Analog Circuit Design
+```
 ### _Acknowledgement_
 
 _* Prof. Santunu Sarangi * Kunal Ghosh, Founder VSD Corportation_ 
