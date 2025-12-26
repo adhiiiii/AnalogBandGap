@@ -168,4 +168,4 @@ Analog Circuit Design
 ```
 ### _Acknowledgement_
 
-_* Prof. Santunu Sarangi * Kunal Ghosh, Founder VSD Corportation_ 
+_* Prof. Santunu Sarangi   * Kunal Ghosh, Founder VSD Corportation_ 
