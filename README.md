@@ -153,6 +153,11 @@ RESISTOR
 
 ## 4. Lab Setup - Analog Design Flow - Sky130
 
+### Magic, Ngspice & Netgen setup
+
+<img width="637" height="344" alt="Image" src="https://github.com/user-attachments/assets/29c5f218-c8e5-4ded-8116-a19e188fb505" />
+
+
 ## 5. Simulation
 
 ##...
