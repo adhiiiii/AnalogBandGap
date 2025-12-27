@@ -48,7 +48,7 @@ Proportional to Absolute Temperature(PTAT) circuit cancels the temperature coeff
 
 ## 3. Requirements and Design
 
-### 3.1 Design Requirements
+### 3.1 Design Requirements (VSD Workshop Specific Requirements)
 
 ⦁	Supply voltage = 1.8V
 
