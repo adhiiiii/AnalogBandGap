@@ -162,6 +162,10 @@ Analog Design Flow (Opensource Tools & PDK)
 <img width="414" height="666" alt="Image" src="https://github.com/user-attachments/assets/a3dee4da-3f06-4993-ace5-a0b473ee4781" />
 
 ## 5. Simulation
+### CTAT Simulation
+
+<img width="930" height="481" alt="Image" src="https://github.com/user-attachments/assets/e3f59395-4a65-436d-89ca-6b681ce9e9a8" />
+<img width="1264" height="519" alt="Image" src="https://github.com/user-attachments/assets/206091e2-3bdb-49cb-9d03-0576dc3fd109" />
 
 ##...
 
