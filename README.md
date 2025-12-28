@@ -198,6 +198,16 @@ Spice Execution / Plot
 
 ### Detailed Startup Circuit Simulation 
 
+<img width="840" height="959" alt="Image" src="https://github.com/user-attachments/assets/28782d9e-6f4e-4834-9011-38ec59cac0aa" />
+<img width="777" height="614" alt="Image" src="https://github.com/user-attachments/assets/47c4a74f-b484-40b3-a180-7f1334be1e01" />
+<img width="719" height="681" alt="Image" src="https://github.com/user-attachments/assets/efab0a2d-92a3-4673-a9f0-c6f4ff2a2ca6" />
+<img width="1919" height="1055" alt="Image" src="https://github.com/user-attachments/assets/e6eab47c-926c-49b4-8497-72197e1983f5" />
+<img width="1917" height="1053" alt="Image" src="https://github.com/user-attachments/assets/be137cc8-b91f-4cbb-937d-842aa4efa65b" />
+<img width="1916" height="1051" alt="Image" src="https://github.com/user-attachments/assets/ae217352-ba5d-4c92-a051-b4df4c1d13b4" />
+<img width="1915" height="1053" alt="Image" src="https://github.com/user-attachments/assets/97b80cc3-8100-4631-adff-312c83cb7789" />
+<img width="1914" height="1055" alt="Image" src="https://github.com/user-attachments/assets/74ad714b-86bb-450d-90fa-0a9522d09eac" />
+<img width="1918" height="1053" alt="Image" src="https://github.com/user-attachments/assets/0c59f368-dc05-47a5-bde3-db9c8e8f89ae" />
+
 ### Layout of the components
 
 ### Top-level extraction lvs postlayout -
