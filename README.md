@@ -215,7 +215,7 @@ Spice Execution / Plot
 
 ## 6. Layout of the components
 
-Ref Repo - https://github.com/vsdip/vsd-bandgap
+In Progress....
 
 
 ## 7. Top-level extraction lvs postlayout -
