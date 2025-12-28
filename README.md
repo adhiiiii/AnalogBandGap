@@ -180,6 +180,12 @@ Spice Execution / Plot
 
 ### PTAT Simulation
 
+<img width="933" height="783" alt="Image" src="https://github.com/user-attachments/assets/7dedbc9d-078a-4f01-86b2-9f46b9e6619c" />
+
+Spice Execution / Plot
+
+<img width="1904" height="540" alt="Image" src="https://github.com/user-attachments/assets/14aaaa73-631e-4ba3-b62e-1e8cb92b9a17" />
+
 ### BGR (ideal) Simulation and prelayout simulation
 
 ### Complete BGR (ideal) Simulation and prelayout simulation
