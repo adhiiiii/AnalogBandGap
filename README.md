@@ -189,6 +189,11 @@ Spice Execution / Plot
 
 ### BGR (ideal) Simulation and prelayout simulation
 
+<img width="860" height="958" alt="Image" src="https://github.com/user-attachments/assets/7b01c8fd-fe53-4b6d-8614-037fe0e136ce" />
+<img width="838" height="431" alt="Image" src="https://github.com/user-attachments/assets/546b57ce-076a-43ae-bb11-2c51f25b8df4" />
+<img width="1343" height="555" alt="Image" src="https://github.com/user-attachments/assets/b928b3d4-60bc-4cb5-b925-27589679a7b6" />
+<img width="705" height="532" alt="Image" src="https://github.com/user-attachments/assets/a997c37a-3196-4917-aa39-507ad3fbd42f" />
+
 ### Complete BGR (ideal) Simulation and prelayout simulation
 
 ### Detailed Startup Circuit Simulation 
