@@ -162,7 +162,7 @@ Analog Design Flow (Opensource Tools & PDK)
 <img width="414" height="666" alt="Image" src="https://github.com/user-attachments/assets/a3dee4da-3f06-4993-ace5-a0b473ee4781" />
 
 ## 5. Simulation
-### CTAT Simulation
+### 5.1 CTAT Simulation
 
 <img width="930" height="481" alt="Image" src="https://github.com/user-attachments/assets/e3f59395-4a65-436d-89ca-6b681ce9e9a8" />
 
@@ -178,7 +178,7 @@ Spice Execution / Plot
 
 <img width="1403" height="539" alt="Image" src="https://github.com/user-attachments/assets/b1d73925-fb4d-4a68-9807-7971125ebb9f" />
 
-### PTAT Simulation
+### 5.2 PTAT Simulation
 
 <img width="933" height="783" alt="Image" src="https://github.com/user-attachments/assets/7dedbc9d-078a-4f01-86b2-9f46b9e6619c" />
 
@@ -187,16 +187,16 @@ Spice Execution / Plot
 <img width="1904" height="540" alt="Image" src="https://github.com/user-attachments/assets/14aaaa73-631e-4ba3-b62e-1e8cb92b9a17" />
 <img width="1346" height="536" alt="Image" src="https://github.com/user-attachments/assets/c2ba1c9d-8d54-4edc-820d-5f1b9cc746ef" />
 
-### BGR (ideal) Simulation and prelayout simulation
+### 5.3 BGR (ideal) Simulation and prelayout simulation
 
 <img width="860" height="958" alt="Image" src="https://github.com/user-attachments/assets/7b01c8fd-fe53-4b6d-8614-037fe0e136ce" />
 <img width="838" height="431" alt="Image" src="https://github.com/user-attachments/assets/546b57ce-076a-43ae-bb11-2c51f25b8df4" />
 <img width="1343" height="555" alt="Image" src="https://github.com/user-attachments/assets/b928b3d4-60bc-4cb5-b925-27589679a7b6" />
 <img width="705" height="532" alt="Image" src="https://github.com/user-attachments/assets/a997c37a-3196-4917-aa39-507ad3fbd42f" />
 
-### Complete BGR (ideal) Simulation and prelayout simulation
+### 5.4 Complete BGR (ideal) Simulation and prelayout simulation
 
-### Detailed Startup Circuit Simulation 
+### 5.5 Detailed Startup Circuit Simulation 
 
 <img width="840" height="959" alt="Image" src="https://github.com/user-attachments/assets/28782d9e-6f4e-4834-9011-38ec59cac0aa" />
 <img width="777" height="614" alt="Image" src="https://github.com/user-attachments/assets/47c4a74f-b484-40b3-a180-7f1334be1e01" />
@@ -208,9 +208,9 @@ Spice Execution / Plot
 <img width="1914" height="1055" alt="Image" src="https://github.com/user-attachments/assets/74ad714b-86bb-450d-90fa-0a9522d09eac" />
 <img width="1918" height="1053" alt="Image" src="https://github.com/user-attachments/assets/0c59f368-dc05-47a5-bde3-db9c8e8f89ae" />
 
-### Layout of the components
+## 6. Layout of the components
 
-### Top-level extraction lvs postlayout -
+## 7. Top-level extraction lvs postlayout -
 
 ##...
 
