@@ -215,13 +215,17 @@ Spice Execution / Plot
 
 ## 6. Layout of the components
 
+Ref Repo - https://github.com/vsdip/vsd-bandgap
+
+
 ## 7. Top-level extraction lvs postlayout -
 
 ##...
 
 ### _References_
 ```
-Analog Circuit Design
+1. Analog Circuit Design
+2. Ref Repo - https://github.com/vsdip/vsd-bandgap
 ```
 ### _Acknowledgement_
 
