@@ -186,6 +186,7 @@ Spice Execution / Plot
 
 <img width="1904" height="540" alt="Image" src="https://github.com/user-attachments/assets/14aaaa73-631e-4ba3-b62e-1e8cb92b9a17" />
 <img width="1346" height="536" alt="Image" src="https://github.com/user-attachments/assets/c2ba1c9d-8d54-4edc-820d-5f1b9cc746ef" />
+
 ### BGR (ideal) Simulation and prelayout simulation
 
 ### Complete BGR (ideal) Simulation and prelayout simulation
