@@ -231,6 +231,9 @@ Spice Execution / Plot
 
 ## 7. Top-level extraction lvs postlayout -
 
+<img width="948" height="979" alt="Image" src="https://github.com/user-attachments/assets/0d999de4-7ad5-4b2a-8f23-afc6d2ed1ab3" />
+<img width="591" height="210" alt="Image" src="https://github.com/user-attachments/assets/88bcbcf7-270f-4a30-a848-a25f96518180" />
+
 
 In Progress....
 
