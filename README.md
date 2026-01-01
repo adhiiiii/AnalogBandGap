@@ -235,9 +235,7 @@ Spice Execution / Plot
 <img width="591" height="210" alt="Image" src="https://github.com/user-attachments/assets/88bcbcf7-270f-4a30-a848-a25f96518180" />
 
 
-In Progress....
 
-##...
 
 ### _References_
 ```
