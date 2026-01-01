@@ -215,10 +215,24 @@ Spice Execution / Plot
 
 ## 6. Layout of the components
 
-In Progress....
+<img width="853" height="488" alt="Image" src="https://github.com/user-attachments/assets/e52dbaad-3679-46c5-a62a-4b808e1361cf" />
+<img width="1011" height="929" alt="Image" src="https://github.com/user-attachments/assets/b07e0562-a1f1-4d0e-8c13-d3820e5f152c" />
+<img width="708" height="337" alt="Image" src="https://github.com/user-attachments/assets/0ff2c4f8-ba0a-4507-92fe-2c2dd58b7963" />
+<img width="1593" height="940" alt="Image" src="https://github.com/user-attachments/assets/ee70cd40-6ef9-4a7c-899d-b3da30bbd17e" />
+<img width="1463" height="950" alt="Image" src="https://github.com/user-attachments/assets/a53bf623-3b93-41fb-844e-f3518d8b5d73" />
+<img width="1487" height="966" alt="Image" src="https://github.com/user-attachments/assets/084c0bdf-f040-4f75-89fb-d3d8cbe1d7ea" />
+<img width="1020" height="919" alt="Image" src="https://github.com/user-attachments/assets/056108ca-4916-46b8-a3f2-eeffe39d18e8" />
+<img width="1489" height="514" alt="Image" src="https://github.com/user-attachments/assets/e7354f95-a7b9-46af-a5db-d97bdd1b544d" />
+<img width="1426" height="764" alt="Image" src="https://github.com/user-attachments/assets/1a4d51b2-6ab6-4eab-8a8c-9b89d5678615" />
+<img width="1441" height="837" alt="Image" src="https://github.com/user-attachments/assets/7e7623a0-0940-4861-a815-d23e88330de4" />
+
+
 
 
 ## 7. Top-level extraction lvs postlayout -
+
+
+In Progress....
 
 ##...
 
