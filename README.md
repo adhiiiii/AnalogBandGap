@@ -226,6 +226,9 @@ Spice Execution / Plot
 <img width="1426" height="764" alt="Image" src="https://github.com/user-attachments/assets/1a4d51b2-6ab6-4eab-8a8c-9b89d5678615" />
 <img width="1441" height="837" alt="Image" src="https://github.com/user-attachments/assets/7e7623a0-0940-4861-a815-d23e88330de4" />
 
+### Design Complete View 
+
+<img width="669" height="713" alt="Image" src="https://github.com/user-attachments/assets/50e10d7c-3244-4569-8b02-e792f97eeb3e" />
 
 
 
