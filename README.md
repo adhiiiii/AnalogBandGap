@@ -234,8 +234,12 @@ Spice Execution / Plot
 <img width="948" height="979" alt="Image" src="https://github.com/user-attachments/assets/0d999de4-7ad5-4b2a-8f23-afc6d2ed1ab3" />
 <img width="591" height="210" alt="Image" src="https://github.com/user-attachments/assets/88bcbcf7-270f-4a30-a848-a25f96518180" />
 
+#### Netgen lvs
 
+lvs "top.sp bgr" "top.spice top" sky130_setup.tcl 
 
+<img width="770" height="804" alt="Image" src="https://github.com/user-attachments/assets/9cf1c71b-9474-4a27-8834-abbd51b93763" />
+<img width="391" height="304" alt="Image" src="https://github.com/user-attachments/assets/1c27d355-401e-4628-a16f-3cc42f928fdf" />
 
 ### _References_
 ```
