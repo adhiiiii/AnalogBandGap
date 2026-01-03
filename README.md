@@ -247,7 +247,10 @@ lvs "top.sp bgr" "top.spice top" sky130_setup.tcl
 ### Layout Versus Schematic
 
 <img width="781" height="540" alt="Image" src="https://github.com/user-attachments/assets/30714e6a-bf8a-480d-942c-48181d44bda0" />
-<img width="836" height="317" alt="Image" src="https://github.com/user-attachments/assets/960d9614-6e2c-40c3-b100-56f07a1f4cfd" />
+
+### Final LVS Comparison 
+
+<img width="812" height="313" alt="Image" src="https://github.com/user-attachments/assets/f456a6cb-92b3-4cea-be90-413e35aeab2e" />
 
 
 ### _References_
