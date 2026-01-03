@@ -244,6 +244,12 @@ lvs "top.sp bgr" "top.spice top" sky130_setup.tcl
 <img width="770" height="804" alt="Image" src="https://github.com/user-attachments/assets/9cf1c71b-9474-4a27-8834-abbd51b93763" />
 <img width="391" height="304" alt="Image" src="https://github.com/user-attachments/assets/1c27d355-401e-4628-a16f-3cc42f928fdf" />
 
+### Layout Versus Schematic
+
+<img width="781" height="540" alt="Image" src="https://github.com/user-attachments/assets/30714e6a-bf8a-480d-942c-48181d44bda0" />
+<img width="836" height="317" alt="Image" src="https://github.com/user-attachments/assets/960d9614-6e2c-40c3-b100-56f07a1f4cfd" />
+
+
 ### _References_
 ```
 1. Analog Circuit Design
