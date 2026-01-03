@@ -248,6 +248,7 @@ lvs "top.sp bgr" "top.spice top" sky130_setup.tcl
 ```
 1. Analog Circuit Design
 2. Ref Repo - https://github.com/vsdip/vsd-bandgap
+3. https://www.synopsys.com/glossary/what-is-layout-versus-schematic-checking.html
 ```
 ### _Acknowledgement_
 
